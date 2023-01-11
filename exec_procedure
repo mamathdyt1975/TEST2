@@ -1,0 +1,15 @@
+-- =============================================
+-- Test Case
+-- =============================================
+
+EXEC SelectTest2 1,'A'
+EXEC SelectTest2 1,'B'
+EXEC SelectTest2 1,'C'
+EXEC SelectTest2 1,'D'
+EXEC SelectTest2 1,'E'
+
+EXEC SelectTest2 2,'A'
+EXEC SelectTest2 2,'B'
+EXEC SelectTest2 2,'C'
+EXEC SelectTest2 2,'D'
+EXEC SelectTest2 2,'E'
